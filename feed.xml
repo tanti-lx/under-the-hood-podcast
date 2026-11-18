@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Under the Hood</title>
+    <link>https://tanti-lx.github.io/under-the-hood-podcast/</link>
+    <atom:link href="https://tanti-lx.github.io/under-the-hood-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily deep-dive series opening with a brief Lisbon local news segment followed by an evidence-grounded exploration of mechanisms beneath the surface (starting with long-term ADHD burnout, masking, and recovery)</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2026 14:22:58 GMT</lastBuildDate>
+    <managingEditor>kostya.vasin1@gmail.com (Under the Hood)</managingEditor>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>The Cleo Spark</itunes:author>
+    <itunes:summary>Daily deep-dive series opening with a brief Lisbon local news segment followed by an evidence-grounded exploration of mechanisms beneath the surface (starting with long-term ADHD burnout, masking, and recovery)</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Science"/>
+    <itunes:owner>
+      <itunes:name>Under the Hood</itunes:name>
+      <itunes:email>kostya.vasin1@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/show_cover_1400.jpg"/>
+    <image>
+      <url>https://tanti-lx.github.io/under-the-hood-podcast/show_cover_1400.jpg</url>
+      <title>Under the Hood</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/</link>
+    </image>
+    <item>
+      <title>The Neurobiology of Social Masking and Cognitive Load (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-neurobiology-of-social-masking-cognitive-load/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-18-neurobiology-of-social-masking-cognitive-load</guid>
+      <pubDate>Wed, 18 Nov 2026 08:06:00 GMT</pubDate>
+      <description><![CDATA[The Neurobiology of Social Masking and Cognitive Load (Plus Lisbon News) — Under the Hood.<p></p><p>(00:00) - Lisbon Local News & Weather</p><p>(01:47) - Transactional Impression Management</p><p>(05:48) - Inside the Cortex: vmPFC Self-Representation</p><p>(08:50) - The ADHD Masking Paradox</p><p>(11:12) - Hair Cortisol and Dual-Masking</p><p>(14:26) - Safe Decompression & People-Adjacent Recovery</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-neurobiology-of-social-masking-cognitive-load/episode.mp3" length="20771486" type="audio/mpeg"/>
+      <itunes:title>The Neurobiology of Social Masking and Cognitive Load (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1031</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-neurobiology-of-social-masking-cognitive-load/ep-cover-1400.jpg"/>
+    </item>
+    <item>
+      <title>Long-Term Relapse Prevention and Resilient Scaffolding (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-16-relapse-prevention-resilient-scaffolding/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-16-relapse-prevention-resilient-scaffolding</guid>
+      <pubDate>Mon, 16 Nov 2026 08:05:00 GMT</pubDate>
+      <description><![CDATA[Episode 5 concludes the adult ADHD burnout series with Lisbon morning updates followed by an investigation into seasonal circadian drift, stress-induced prefrontal network collapse, and tri-layered scaffolding.<p></p><p>(00:00) - Lisbon Local News & Weather</p><p>(04:09) - The Seasonal Trap and Winter Photoperiod Drift</p><p>(05:20) - Stress-Induced Prefrontal Collapse</p><p>(09:34) - The Three-Month Fade-Out and Reward Prediction Error</p><p>(13:35) - Tri-Layered Resilient Scaffolding Architecture</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-16-relapse-prevention-resilient-scaffolding/episode.mp3" length="21479479" type="audio/mpeg"/>
+      <itunes:title>Long-Term Relapse Prevention and Resilient Scaffolding (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1068</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-16-relapse-prevention-resilient-scaffolding/ep-cover-1400.jpg"/>
+    </item>
+    <item>
+      <title>Pharmacology, Behavioral Scaffolding, and Circadian Stabilization (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-16-pharma-behavioral-circadian-protocols/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-16-pharma-behavioral-circadian-protocols</guid>
+      <pubDate>Mon, 16 Nov 2026 08:04:00 GMT</pubDate>
+      <description><![CDATA[Episode 4 opens with Lisbon weather and local civic news before examining why optimized ADHD medication still needs behavioral scaffolding and circadian stabilization.<p></p><p>(00:00) - Lisbon Local News & Weather</p><p>(02:09) - Pharmacological vs. Behavioral Synergy</p><p>(06:32) - The Stimulant Paradox and Molecular Clocks</p><p>(10:14) - The Circadian Phenotype of Adult ADHD</p><p>(12:28) - Circadian Stabilization Protocols</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-16-pharma-behavioral-circadian-protocols/episode.mp3" length="19899668" type="audio/mpeg"/>
+      <itunes:title>Pharmacology, Behavioral Scaffolding, and Circadian Stabilization (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>987</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-16-pharma-behavioral-circadian-protocols/ep-cover-1400.jpg"/>
+    </item>
+    <item>
+      <title>Sensory Load Engineering and Energy Pacing Across High-Demand Weeks (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-15-sensory-load-energy-pacing/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-15-sensory-load-energy-pacing</guid>
+      <pubDate>Sun, 15 Nov 2026 08:03:00 GMT</pubDate>
+      <description><![CDATA[Lisbon Sunday weather (18.0 C overcast) and the TAP-Lufthansa 44.9% Lisbon hub deal, followed by a deep dive into P50 sensory gating, working-memory load and auditory distraction, autonomic allostatic overload, energy envelope pacing, and micro-break recovery limits.<p></p><p>(00:00) - Lisbon Today: Overcast Skies and TAP's Hub Deal</p><p>(01:55) - When the Filter Leaks: P50 Sensory Gating</p><p>(04:30) - Competing Inputs: Why High Load Breaks Auditory Filtering</p><p>(07:40) - The Hidden Metabolic Bill: Autonomic and Allostatic Load</p><p>(10:21) - Energy Envelopes and the Boom-and-Bust Trap</p><p>(13:03) - Engineering Sensory Load and Real Recovery Windows</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-15-sensory-load-energy-pacing/episode.mp3" length="21079044" type="audio/mpeg"/>
+      <itunes:title>Sensory Load Engineering and Energy Pacing Across High-Demand Weeks (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1048</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-15-sensory-load-energy-pacing/ep-cover-1400.jpg"/>
+    </item>
+    <item>
+      <title>External Memory Architecture and the Task-Switching Tax (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-14-external-memory-switching-cost/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-14-external-memory-switching-cost</guid>
+      <pubDate>Sat, 14 Nov 2026 08:02:00 GMT</pubDate>
+      <description><![CDATA[Lisbon local news and weather followed by an evidence-grounded investigation of proactive control, attention residue, prospective memory, and external memory architecture in adult ADHD.<p></p><p>(00:00) - Lisbon Local News and Weather</p><p>(01:56) - Proactive Control and Task-Set Inertia</p><p>(05:10) - Attention Residue and Interruption Recovery</p><p>(08:27) - Why Passive To-Do Lists Fail: Prospective Memory</p><p>(11:55) - Engineering External Memory Architecture</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-14-external-memory-switching-cost/episode.mp3" length="20684066" type="audio/mpeg"/>
+      <itunes:title>External Memory Architecture and the Task-Switching Tax (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1025</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-14-external-memory-switching-cost/ep-cover-1400.jpg"/>
+    </item>
+    <item>
+      <title>Chronic ADHD Burnout: Why Rest Isn't Enough (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-12-adhd-burnout-beyond-the-surface/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-12-adhd-burnout-beyond-the-surface</guid>
+      <pubDate>Thu, 12 Nov 2026 08:01:00 GMT</pubDate>
+      <description><![CDATA[Lisbon updates after Storm Charles followed by a research-grounded deep dive into chronic adult ADHD burnout, masking, circadian drift, and evidence-based recovery.<p></p><p>(00:00) - Lisbon This Week: Storm Charles and Housing</p><p>(01:21) - Why Chronic ADHD Burnout Breaks Standard Rest</p><p>(04:06) - Two Hidden Pathways to Exhaustion</p><p>(06:17) - Autonomy, Competence, and the Sunday Paradox</p><p>(08:38) - The Masking Tax and Threat Response</p><p>(12:01) - Circadian Drift and Unstable Sleep</p><p>(13:30) - CBT-ADHD vs. Medication: What Actually Changes</p><p>(15:22) - Demand Triage, Interest, and External Scaffolding</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-12-adhd-burnout-beyond-the-surface/episode.mp3" length="21829965" type="audio/mpeg"/>
+      <itunes:title>Chronic ADHD Burnout: Why Rest Isn't Enough (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1086</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-12-adhd-burnout-beyond-the-surface/ep-cover-1400.jpg"/>
+    </item>
+  </channel>
+</rss>
