@@ -10,7 +10,7 @@
     <atom:link href="https://tanti-lx.github.io/under-the-hood-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Daily deep-dive series opening with a brief Lisbon local news segment followed by an evidence-grounded exploration of mechanisms beneath the surface (starting with long-term ADHD burnout, masking, and recovery)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:36:25 GMT</lastBuildDate>
     <managingEditor>kostya.vasin1@gmail.com (Under the Hood)</managingEditor>
     <itunes:type>episodic</itunes:type>
     <itunes:author>The Cleo Spark</itunes:author>
@@ -31,16 +31,31 @@
       <title>The Neurobiology of Social Masking and Cognitive Load (Plus Lisbon News)</title>
       <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-neurobiology-of-social-masking-cognitive-load/</link>
       <guid isPermaLink="false">under_the_hood:2026-11-18-neurobiology-of-social-masking-cognitive-load</guid>
-      <pubDate>Wed, 18 Nov 2026 08:06:00 GMT</pubDate>
+      <pubDate>Wed, 18 Nov 2026 08:07:00 GMT</pubDate>
       <description><![CDATA[The Neurobiology of Social Masking and Cognitive Load (Plus Lisbon News) — Under the Hood.<p></p><p>(00:00) - Lisbon Local News & Weather</p><p>(01:47) - Transactional Impression Management</p><p>(05:48) - Inside the Cortex: vmPFC Self-Representation</p><p>(08:50) - The ADHD Masking Paradox</p><p>(11:12) - Hair Cortisol and Dual-Masking</p><p>(14:26) - Safe Decompression & People-Adjacent Recovery</p><p>AI-generated narration.</p>]]></description>
       <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-neurobiology-of-social-masking-cognitive-load/episode.mp3" length="20771486" type="audio/mpeg"/>
       <itunes:title>The Neurobiology of Social Masking and Cognitive Load (Plus Lisbon News)</itunes:title>
       <itunes:author>The Cleo Spark</itunes:author>
-      <itunes:episode>6</itunes:episode>
+      <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>1031</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-neurobiology-of-social-masking-cognitive-load/ep-cover-1400.jpg"/>
+    </item>
+    <item>
+      <title>Interoception, Somatic Signal Blunting, and Rebuilding Bodily Cue Detection (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-interoception-somatic-signal-blunting/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-18-interoception-somatic-signal-blunting</guid>
+      <pubDate>Wed, 18 Nov 2026 08:06:00 GMT</pubDate>
+      <description><![CDATA[Interoception, Somatic Signal Blunting, and Rebuilding Bodily Cue Detection (Plus Lisbon News) — Under the Hood.<p></p><p>(00:00) - Lisbon Local News & Weather</p><p>(01:40) - The Brain's Allostatic Prediction Engine</p><p>(06:20) - Interoceptive Blunting in ADHD</p><p>(08:26) - The Quiet-Lab vs. Real-World Load Paradox</p><p>(11:47) - Recalibrating the Dashboard: ADIE & Recovery Protocols</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-interoception-somatic-signal-blunting/episode.mp3" length="20276507" type="audio/mpeg"/>
+      <itunes:title>Interoception, Somatic Signal Blunting, and Rebuilding Bodily Cue Detection (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1008</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-interoception-somatic-signal-blunting/ep-cover-1400.jpg"/>
     </item>
     <item>
       <title>Long-Term Relapse Prevention and Resilient Scaffolding (Plus Lisbon News)</title>
