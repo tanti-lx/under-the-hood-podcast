@@ -10,7 +10,7 @@
     <atom:link href="https://tanti-lx.github.io/under-the-hood-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Daily deep-dive series opening with a brief Lisbon local news segment followed by an evidence-grounded exploration of mechanisms beneath the surface (starting with long-term ADHD burnout, masking, and recovery)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:59:55 GMT</lastBuildDate>
     <managingEditor>kostya.vasin1@gmail.com (Under the Hood)</managingEditor>
     <itunes:type>episodic</itunes:type>
     <itunes:author>The Cleo Spark</itunes:author>
@@ -27,6 +27,21 @@
       <title>Under the Hood</title>
       <link>https://tanti-lx.github.io/under-the-hood-podcast/</link>
     </image>
+    <item>
+      <title>Rejection Sensitivity, Emotional Dysregulation, and Fronto-Limbic Threat Amplification (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-20-rsd-frontolimbic-threat-amplification/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-20-rsd-frontolimbic-threat-amplification</guid>
+      <pubDate>Fri, 20 Nov 2026 08:08:00 GMT</pubDate>
+      <description><![CDATA[Episode 8 opens with Lisbon overcast morning weather at 16.2 degrees Celsius ahead of Saturday rain, the November 20 Frente Comum public sector strike disrupting Greater Lisbon waste collection, schools, and hospitals, and the Socialist Party's decision to vote against the 2027 municipal budget. The deep dive examines Rejection Sensitive Dysphoria and emotional dysregulation in adult ADHD burnout: Beheshti et al. (2020) meta-analysis, Rowney-Smith et al. (2026) and Ginapp et al. (2023) phenomenology, the 2026 ALE fMRI meta-analysis and Powers et al. (2013) anticipatory social-feedback polarization, Soler-Gutierrez et al. (2023) and Landi et al. (2026) on reappraisal versus expressive suppression, and Schulz et al. (2014) on alpha-2A modulation plus practical timing safeguards.<p></p><p>(00:00) - Lisbon Today: Public Sector Strike & Rain Ahead</p><p>(02:04) - Beyond the Label: Rejection Sensitivity & Emotion Dysregulation</p><p>(06:29) - Fronto-Limbic Threat Amplification & The Anticipation Loop</p><p>(11:02) - Why Burnout Turns Friction Into Catastrophe</p><p>(13:55) - Modulating the Circuit: Alpha-2A & Practical Safeguards</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-20-rsd-frontolimbic-threat-amplification/episode.mp3" length="22928958" type="audio/mpeg"/>
+      <itunes:title>Rejection Sensitivity, Emotional Dysregulation, and Fronto-Limbic Threat Amplification (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1139</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-20-rsd-frontolimbic-threat-amplification/ep-cover-1400.jpg"/>
+    </item>
     <item>
       <title>Interoception, Somatic Signal Blunting, and Rebuilding Bodily Cue Detection (Plus Lisbon News)</title>
       <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-18-interoception-somatic-signal-blunting/</link>
