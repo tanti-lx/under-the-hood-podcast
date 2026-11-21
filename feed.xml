@@ -10,7 +10,7 @@
     <atom:link href="https://tanti-lx.github.io/under-the-hood-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Daily deep-dive series opening with a brief Lisbon local news segment followed by an evidence-grounded exploration of mechanisms beneath the surface (starting with long-term ADHD burnout, masking, and recovery)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:33:14 GMT</lastBuildDate>
     <managingEditor>kostya.vasin1@gmail.com (Under the Hood)</managingEditor>
     <itunes:type>episodic</itunes:type>
     <itunes:author>The Cleo Spark</itunes:author>
@@ -31,16 +31,31 @@
       <title>Спецвыпуск RU (№ 08–09): RSD, дофамин и почему жёсткая дисциплина не работает при выгорании</title>
       <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-20-ru-special-ep08-ep09/</link>
       <guid isPermaLink="false">under_the_hood:2026-11-20-ru-special-ep08-ep09</guid>
-      <pubDate>Fri, 20 Nov 2026 08:10:00 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2026 08:11:00 GMT</pubDate>
       <description><![CDATA[Специальный двойной русскоязычный выпуск Under the Hood, объединяющий эпизоды № 8 и № 9. Часть 1 (женский голос): дисфория чувствительности к отвержению (RSD), фронто-лимбическое усиление угрозы и практические буферы. Часть 2 (мужской голос): ошибка предсказания награды, снижение синтеза дофамина в режиме угрозы и почему жёсткая дисциплина усиливает выгорание.<p></p><p>(00:00) - Часть 1 · Лиссабон сегодня: забастовка госсектора и прогноз дождя</p><p>(02:30) - Часть 1 · За пределами ярлыка: RSD и эмоциональная дисрегуляция</p><p>(04:56) - Часть 1 · Фронто-лимбическое усиление угрозы и петля ожидания</p><p>(09:40) - Часть 1 · Почему выгорание превращает трение в катастрофу</p><p>(13:35) - Часть 1 · Модуляция контура: альфа-2A рецепторы и практические буферы</p><p>(18:01) - Часть 2 · Новости Лиссабона (OE2027) и контур мотивации без лени</p><p>(22:45) - Часть 2 · Дефицит переноса дофамина: почему цели не тянут вперёд</p><p>(26:41) - Часть 2 · Ловушка режима угрозы: глухая награда и громкая сирена</p><p>(31:08) - Часть 2 · Почему дисциплина включает тормоз и четыре протокола входа</p><p>AI-generated narration.</p>]]></description>
       <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-20-ru-special-ep08-ep09/episode.mp3" length="34458691" type="audio/mpeg"/>
       <itunes:title>Спецвыпуск RU (№ 08–09): RSD, дофамин и почему жёсткая дисциплина не работает при выгорании</itunes:title>
       <itunes:author>Under the Hood (RU Special)</itunes:author>
-      <itunes:episode>10</itunes:episode>
+      <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>2145</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-20-ru-special-ep08-ep09/ep-cover-1400.jpg"/>
+    </item>
+    <item>
+      <title>Sleep Inertia, Default Mode Intrusion, and Guilt-Free Restorative Downtime (Plus Lisbon News)</title>
+      <link>https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-21-sleep-inertia-dmn-intrusion-guilt-free-rest/</link>
+      <guid isPermaLink="false">under_the_hood:2026-11-21-sleep-inertia-dmn-intrusion-guilt-free-rest</guid>
+      <pubDate>Sat, 21 Nov 2026 08:10:00 GMT</pubDate>
+      <description><![CDATA[Episode 10 opens with Lisbon Saturday weather under an IPMA yellow rain warning (18.9 C overcast ahead of 17.2 mm afternoon rain, clearing Sunday), today's CGTP-IN Saldanha-to-Restauradores march ahead of the OE2027 vote, and City Hall's green light for the final stretch of the Santa Apolónia drainage tunnel. The deep dive dissects why mornings and rest feel broken in adult ADHD burnout: Hilditch & McHill (2019) on Process W/I sleep inertia, Wang et al. (2024) simultaneous EEG-fMRI neurovascular lag and DMN-TPN decoupling, Tonetti et al. (2022) 70-minute motor dissipation, Liu et al. (2024) on the left middle temporal gyrus DMN-attention bridge, Bakker (2026) and Wendsche & Lohmann-Haislah (2017) on the recovery paradox, and Gil-LaOrden et al. (2024) on guilt mediating psychosomatic distress—plus three architectural recovery rules.<p></p><p>(00:00) - Lisbon Local News & Weather</p><p>(02:20) - The 70-Minute Boot Sequence: Sleep Inertia & Network Lag</p><p>(08:11) - When the Default Mode Refuses to Yield</p><p>(11:32) - The Recovery Paradox, Guilt, and Architectural Downtime</p><p>AI-generated narration.</p>]]></description>
+      <enclosure url="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-21-sleep-inertia-dmn-intrusion-guilt-free-rest/episode.mp3" length="20849575" type="audio/mpeg"/>
+      <itunes:title>Sleep Inertia, Default Mode Intrusion, and Guilt-Free Restorative Downtime (Plus Lisbon News)</itunes:title>
+      <itunes:author>The Cleo Spark</itunes:author>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1037</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://tanti-lx.github.io/under-the-hood-podcast/episodes/2026-11-21-sleep-inertia-dmn-intrusion-guilt-free-rest/ep-cover-1400.jpg"/>
     </item>
     <item>
       <title>Reward Prediction Error, Dopamine Downregulation, and Why Forcing Discipline Backfires (Plus Lisbon News)</title>
